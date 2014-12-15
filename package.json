@@ -1,0 +1,22 @@
+{
+  "name": "social-media-aggregator",
+  "version": "0.0.1",
+  "description": "social-media-aggregator =======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hochitom/social-media-aggregator.git"
+  },
+  "author": "hochitom",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hochitom/social-media-aggregator/issues"
+  },
+  "dependencies": {
+    "q": "~1.1.2",
+    "request": "~2.51.0"
+  }
+}
